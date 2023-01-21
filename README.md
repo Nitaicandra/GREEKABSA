@@ -6,6 +6,7 @@ I create a custom dataset generator that procedurally pieces together greek word
 
 After the dataset is created it is then fed into pyabsa to train nlpaueb's greek bert base to detect sentiment aspect pairs. using this information we are able to tell where and when civilizations are described positivley and negativley within the greek corpus.
 |Input|Output|
+--------------
 |![image](https://user-images.githubusercontent.com/89361982/213872268-14ac2e58-f1d7-433f-b7ee-37f52e34f683.png)|![image](https://user-images.githubusercontent.com/89361982/213872254-8c9b0f88-d665-48f1-8415-de93eaaefe5f.png)|
 
 
