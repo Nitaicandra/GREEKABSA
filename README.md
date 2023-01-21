@@ -7,7 +7,6 @@ I create a custom dataset generator that procedurally pieces together greek word
 |wiktionary greek word for romans declension chart|
 | ------------- | 
 |![image](https://user-images.githubusercontent.com/89361982/213872731-e61b0575-607b-487d-836f-8fda266e40ea.png)|
-|------------- |
 |pandas|
 
 After the dataset is created it is then fed into pyabsa to train nlpaueb's greek bert base to detect sentiment aspect pairs. using this information we are able to tell where and when civilizations are described positivley and negativley within the greek corpus.
